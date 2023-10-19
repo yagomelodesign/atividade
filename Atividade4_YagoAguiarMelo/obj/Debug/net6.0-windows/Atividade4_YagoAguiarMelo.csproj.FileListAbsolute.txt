@@ -1,0 +1,17 @@
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\bin\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.exe
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\bin\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.deps.json
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\bin\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.runtimeconfig.json
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\bin\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.dll
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\bin\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.pdb
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.csproj.AssemblyReference.cache
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.Form1.resources
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.csproj.GenerateResource.cache
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.AssemblyInfoInputs.cache
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.AssemblyInfo.cs
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.csproj.CoreCompileInputs.cache
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.dll
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\refint\Atividade4_YagoAguiarMelo.dll
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.pdb
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.genruntimeconfig.cache
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\ref\Atividade4_YagoAguiarMelo.dll
