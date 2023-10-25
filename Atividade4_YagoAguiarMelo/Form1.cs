@@ -25,9 +25,9 @@ namespace Atividade4_YagoAguiarMelo
             double totalPago = valorPrincipal + totalDeJuros;
 
 
-            lbl_valorDaParcela.Text = "Valor da parcela:" +  valorDaParcela.ToString("N2");
-            lbl_TotalJuros.Text = "Total em juros" + totalDeJuros.ToString("N2");
-            lbl_TotalPago.Text = "Total pago" + totalPago.ToString("N2");
+            lbl_valorDaParcela.Text = "Valor da parcela: R$" +  valorDaParcela.ToString("N2");
+            lbl_TotalJuros.Text = "Total em juros: R$" + totalDeJuros.ToString("N2");
+            lbl_TotalPago.Text = "Total pago: R$" + totalPago.ToString("N2");
 
 
 
@@ -35,6 +35,16 @@ namespace Atividade4_YagoAguiarMelo
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbl_TotalJuros_Click(object sender, EventArgs e)
         {
 
         }

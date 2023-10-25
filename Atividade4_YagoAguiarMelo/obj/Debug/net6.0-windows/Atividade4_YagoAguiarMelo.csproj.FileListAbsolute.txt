@@ -15,3 +15,4 @@ D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\A
 D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.pdb
 D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.genruntimeconfig.cache
 D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\ref\Atividade4_YagoAguiarMelo.dll
+D:\12046386671\Documents\Visual Studio 2022\Projects\Atividade4_YagoAguiarMelo\Atividade4_YagoAguiarMelo\obj\Debug\net6.0-windows\Atividade4_YagoAguiarMelo.Properties.Resources.resources
